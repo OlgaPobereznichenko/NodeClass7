@@ -1,0 +1,23 @@
+div a{
+    color: violet;
+}
+    
+p a{
+    color: red;
+}
+
+a{
+    color: green;
+}
+
+div > span {
+    color: yellow;
+}
+
+span {
+    color: brown;
+}
+
+p > span{
+    color: darkblue;
+}

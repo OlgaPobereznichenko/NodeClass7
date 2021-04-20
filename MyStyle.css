@@ -1,0 +1,34 @@
+span{
+    color: aqua;
+}
+ div,p
+{
+     color: green;
+}   
+ #month{
+     color: rgb(255,0,0);
+}
+ .blue{
+     color: blue;
+}
+.username{
+        color:blueviolet
+}
+#userId{
+    color:chartreuse
+}
+
+*{
+    color: coral;
+}
+
+div[name="day"]{
+    color: yellow;
+}
+
+a:visited{
+    Color: red;
+}
+a:hover{
+    Color: purple;
+}

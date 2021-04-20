@@ -1,0 +1,17 @@
+div::first-line{
+    color: darkblue;
+}
+div{
+    color: darkgoldenrod;
+}
+div::first-letter{
+    color:darkmagenta;
+}
+
+div + p{
+    color: darkolivegreen;
+}
+
+div ~ p {
+    color:hotpink;
+}
